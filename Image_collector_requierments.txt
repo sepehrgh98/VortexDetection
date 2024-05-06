@@ -1,0 +1,6 @@
+# Usage: pip install -r requirements.txt
+
+# Base ----------------------------------------
+opencv-python
+opencv-contrib-python
+split-folders
